@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ヒロインズ",
   "base_artist": "=LOVE",
-  "createdAt": "2025-12-22T03:10:54.813542Z",
+  "createdAt": "2026-03-27T13:12:00.639276Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,42 @@
       "artist": "=LOVE",
       "has_synced": false,
       "path": "select/pl_01_ヒロインズ_=LOVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ヒロインズ",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_01_ヒロインズ_=LOVE.lrc",
+      "repo_name": "B2teLF9l4aI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ヒロインズ",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_02_ヒロインズ_=LOVE.lrc",
+      "repo_name": "JBh9Kwsp5EM"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "ヒロインズ",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_03_ヒロインズ_=LOVE.lrc",
+      "repo_name": "Meg76EaKTyk"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "ヒロインズ",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_04_ヒロインズ_=LOVE.lrc",
+      "repo_name": "adDqIY7Xs-U"
     }
   ]
 }
